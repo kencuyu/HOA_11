@@ -65,7 +65,7 @@
 
 - block:
   - name: Verifying user groups
-    shell: groups neil
+    shell: groups kencu
     register: user_groups
 
   - debug:

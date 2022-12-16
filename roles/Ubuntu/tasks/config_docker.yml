@@ -12,7 +12,7 @@
 
 - name: Creating volume
   file:
-    path: /home/neil/pages
+    path: /home/kencu/pages
     state: directory
 
 - name: Building image
